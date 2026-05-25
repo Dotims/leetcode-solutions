@@ -8,8 +8,8 @@ A structured repository containing my daily solutions to LeetCode problems. This
 
 | Difficulty | Solved |
 | :--- | :--- |
-| 🟢 **Easy** | 1 |
+| 🟢 **Easy** | 2 |
 | 🟡 **Medium** | 0 |
 | 🔴 **Hard** | 0 |
-| **Total** | **0** |
+| **Total** | **2** |
 
