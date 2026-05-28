@@ -8,7 +8,7 @@ A structured repository containing my daily solutions to LeetCode problems. This
 
 | Difficulty | Solved |
 | :--- | :--- |
-| 🟢 **Easy** | 2 |
+| 🟢 **Easy** | 3 |
 | 🟡 **Medium** | 0 |
 | 🔴 **Hard** | 0 |
 | **Total** | **2** |
