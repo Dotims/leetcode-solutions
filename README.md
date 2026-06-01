@@ -6,10 +6,54 @@ A structured repository containing my daily solutions to LeetCode problems. This
 
 ## 📊 Progress Statistics
 
+<!-- STATS:START -->
 | Difficulty | Solved |
 | :--- | :--- |
-| 🟢 **Easy** | 3 |
+| 🟢 **Easy** | 5 |
 | 🟡 **Medium** | 0 |
 | 🔴 **Hard** | 0 |
-| **Total** | **3** |
+| **Total** | **5** |
+<!-- STATS:END -->
 
+## 🗂️ Repository Structure
+
+Solutions are grouped by difficulty. Each problem lives in its own folder named
+`NNNN-problem-slug`, where `NNNN` is the zero-padded LeetCode problem number:
+
+```
+Easy/
+└── 0026-remove-duplicates-from-sorted-array/
+    └── solution.ts
+Medium/
+Hard/
+```
+
+Each `solution.ts` starts with a header comment describing the problem:
+
+```ts
+/*
+    Problem: 26. Remove Duplicates from Sorted Array
+    Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+    Time Complexity: O(n)
+*/
+```
+
+## ✅ Solutions
+
+<!-- SOLUTIONS:START -->
+### 🟢 Easy
+
+| # | Problem | Solution |
+| :--- | :--- | :--- |
+| 0026 | Remove Duplicates from Sorted Array | [Solution](Easy/0026-remove-duplicates-from-sorted-array/solution.ts) |
+| 0027 | Remove Element | [Solution](Easy/0027-remove-element/solution.ts) |
+| 0088 | Merge Sorted Array | [Solution](Easy/0088-merge-sorted-array/solution.ts) |
+| 0121 | Best Time to Buy and Sell Stock | [Solution](Easy/0121-best-time-to-buy-and-sell-stock/solution.ts) |
+| 0169 | Majority Element | [Solution](Easy/0169-majority-element/solution.ts) |
+<!-- SOLUTIONS:END -->
+
+---
+
+> ℹ️ The **Progress Statistics** and **Solutions** sections are generated automatically by a
+> [GitHub Action](.github/workflows/update-readme.yml) on every push. Don't edit the content
+> between the `<!-- ... -->` marker comments by hand — it will be overwritten.
