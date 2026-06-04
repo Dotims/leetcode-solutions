@@ -7,7 +7,7 @@
 
 
 function removeDuplicates(nums: number[]): number {
-    if (nums.length === 3) return nums.length;
+    if (nums.length < 3) return nums.length;
 
     let k = 2;
 
