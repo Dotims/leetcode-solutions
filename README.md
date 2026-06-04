@@ -10,9 +10,9 @@ A structured repository containing my daily solutions to LeetCode problems. This
 | Difficulty | Solved |
 | :--- | :--- |
 | 🟢 **Easy** | 5 |
-| 🟡 **Medium** | 0 |
+| 🟡 **Medium** | 1 |
 | 🔴 **Hard** | 0 |
-| **Total** | **5** |
+| **Total** | **6** |
 <!-- STATS:END -->
 
 ## 🗂️ Repository Structure
@@ -50,6 +50,12 @@ Each `solution.ts` starts with a header comment describing the problem:
 | 0088 | Merge Sorted Array | [Solution](Easy/0088-merge-sorted-array/solution.ts) |
 | 0121 | Best Time to Buy and Sell Stock | [Solution](Easy/0121-best-time-to-buy-and-sell-stock/solution.ts) |
 | 0169 | Majority Element | [Solution](Easy/0169-majority-element/solution.ts) |
+
+### 🟡 Medium
+
+| # | Problem | Solution |
+| :--- | :--- | :--- |
+| 0080 | Remove Duplicates from Sorted Array II | [Solution](Medium/remove-duplicates-from-sorted-array-ii/solution.ts) |
 <!-- SOLUTIONS:END -->
 
 ---
