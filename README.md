@@ -10,9 +10,9 @@ A structured repository containing my daily solutions to LeetCode problems. This
 | Difficulty | Solved |
 | :--- | :--- |
 | 🟢 **Easy** | 5 |
-| 🟡 **Medium** | 1 |
+| 🟡 **Medium** | 2 |
 | 🔴 **Hard** | 0 |
-| **Total** | **6** |
+| **Total** | **7** |
 <!-- STATS:END -->
 
 ## 🗂️ Repository Structure
@@ -56,6 +56,7 @@ Each `solution.ts` starts with a header comment describing the problem:
 | # | Problem | Solution |
 | :--- | :--- | :--- |
 | 0080 | Remove Duplicates from Sorted Array II | [Solution](Medium/remove-duplicates-from-sorted-array-ii/solution.ts) |
+| 0189 | Rotate Array | [Solution](Medium/rotate-array/solution.ts) |
 <!-- SOLUTIONS:END -->
 
 ---
